@@ -1,0 +1,4 @@
+[debug] [scio-playground-build] Classpath dependencies List()
+[debug] [scio-playground-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scio-playground-build' to '/home/nikom/projects/scio-playground/project/.bloop/scio-playground-build.json'
+[success] Generated .bloop/scio-playground-build.json
